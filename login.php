@@ -41,14 +41,14 @@ if ($num == 1) {
     } else { // If active = 0, show message
         echo "<script>
                 alert('Your account is pending admin approval.');
-                window.location.href = 'login.html';
+                window.location.href = 'index.html';
               </script>";
         exit();
     }
 } else {
     echo "<script>
             alert('Sorry, Invalid credentials...!');
-            window.location.href = 'login.html';
+            window.location.href = 'index.html';
           </script>";
     exit();
 }
