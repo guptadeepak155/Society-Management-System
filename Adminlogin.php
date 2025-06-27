@@ -42,7 +42,7 @@
                    <li><a href="#rules">Rules & Regulations</a></li>
                 </ul>
             </nav>
-            <a href="login.html" class="btn">User Login</a>
+            <a href="index.html" class="btn">User Login</a>
        </div>
        <div class="row">
         <div class="col-1">
